@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Hotspot Private.com" resolutions="1x" timestamp="1496605957920">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Hotspot Private.com" resolutions="1x" timestamp="1496689921465">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3825359098" ref="index"/>
-    <file name="iefonts_index.css" crc="4120789302" ref="index"/>
+    <file name="index.css" crc="3836941462" ref="index"/>
+    <file name="iefonts_index.css" crc="39784308" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,26 +16,45 @@
   <folder name="images">
     <file name="hotspot-private-для-windows-favicon.ico" crc="3969453433" ref="index"/>
     <file name="invisible_48px-u214.png" crc="331156213" ref="index"/>
-    <file name="dotted-world-map-vector-2-u441-fr.png" crc="335031650" ref="index"/>
+    <file name="dotted-world-map-vector-2-u441-fr.png" crc="5561681" ref="index"/>
     <file name="screenshot_2.jpg" crc="3911182985" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="security checked_32px.png" crc="3961449989" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fraud_32px.png" crc="88948563" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="unlock_32px_2.png" crc="4148661328" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="speed_32px.png" crc="478082872" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="banknotes_32px.png" crc="482363699" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="security checked_32px-u1384.png" crc="4072919205" ref="index"/>
+    <file name="fraud_32px-u1419.png" crc="418600093" ref="index"/>
+    <file name="unlock_32px_2-u1430.png" crc="3853264095" ref="index"/>
+    <file name="speed_32px-u1433.png" crc="4169968912" ref="index"/>
+    <file name="banknotes_32px-u1456.png" crc="191486563" ref="index"/>
+    <file name="dotted-world-map-vector-2-u1677-fr.png" crc="47277328" ref="index"/>
+    <file name="dotted-world-map-vector-2-u1829-fr.png" crc="220163068" ref="index"/>
+    <file name="znakcom-714210-501x427.jpg" crc="306344711" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="портрет_1_display.jpg" crc="4274116757" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_eb1f1e.jpg" crc="379823166" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="security checked_100px.png" crc="528585562" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fraud_100px.png" crc="4039262067" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="speed_100px.png" crc="3927709488" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unlock_100px.png" crc="4252972562" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cancel 2_104px.png" crc="506222733" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banknotes_100px.png" crc="4123370259" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="297563862" seo="true" mt="1496605881536" redirect="true"/>
+  <file name="index.html" crc="3807922627" seo="true" mt="1496689903254" redirect="true"/>
 </manifest>
